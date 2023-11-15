@@ -42,7 +42,7 @@ int main(){
 
 
         if(collisionWithAxe){
-            DrawText("A collision happned! Game over for you!!",200,200,20,RED);
+            DrawText("A collision happened! Game over for you!!",200,200,20,RED);
             ClearBackground(ORANGE);
         }else{
             // Game logig begins
